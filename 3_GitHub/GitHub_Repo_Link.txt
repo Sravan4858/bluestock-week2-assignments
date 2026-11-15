@@ -1,4 +1,4 @@
-Repository link: https://github.com/<your-username>/bluestock-week2-assignments
+Repository link: https://github.com/<mannesravan>/bluestock-week2-assignments
 
-(Replace with your real link after you create the repository. Make sure it is Public.)
-Also add a screenshot of the commit history as commit_history.png in this folder.
+(https://github.com/Sravan4858/bluestock-week2-assignments/edit/main/3_GitHub/GitHub_Repo_Link.txt)
+
